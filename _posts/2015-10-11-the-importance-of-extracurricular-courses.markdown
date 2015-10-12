@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the importance of extracurriculars"
+title: "the importance of extracurricular courses"
 date: 2015-10-11
 categories: jekyll update
 ---
@@ -15,4 +15,4 @@ i remember walking in to class saying how i would barely scrape by with a C, bec
 
 i didn't expect to fall in love with french. it was so amazing, and at the same time enlightening. i met new people outside of my CS classes, and also grew comfortable (well, not anymore admittedly...) speaking a foreign language out publicly. 
 
-if i ever had to give any advice to a cs freshman -- take something new. you have four years and there will be plenty of cs classes for you to take. leap outside of your comfort zone and learn something new! college is an opportunity for you to learn so many things, and if you bound yourself to something that will eventually be your career, you'll have missed out on so many opportunities.
+if i ever had to give any advice to a cs freshman -- take something new. you have four years and there will be plenty of cs classes for you to take. leap outside of your comfort zone and learn something interesting! college is an opportunity for you to learn so many things, and if you bound yourself to something that will eventually be your career, you'll have missed out on so many opportunities.
