@@ -2,5 +2,6 @@
 layout: page
 title: Resume
 permalink: /resume/
-docurl: assets/pdf/DanielDaoResume.pdf
 ---
+
+You can find a copy of my resume [here](/static/DanielDaoResume.pdf).
