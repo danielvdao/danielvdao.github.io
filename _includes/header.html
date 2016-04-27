@@ -13,12 +13,11 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+      <div class="trigger"> 
+          <a class="page-link" href="/about/">About</a>
+          <a class="page-link" href="/">Blog</a>
+          <a class="page-link" href="/books/">Books</a>
+          <a class="page-link" href="/resume/">Resume</a>
       </div>
     </nav>
 

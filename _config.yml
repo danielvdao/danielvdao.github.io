@@ -1,9 +1,8 @@
 # Site settings
-title: Daniel Dao
+title: Daniel Vu Dao
 email: danielvudao@utexas.edu
 description: > # this means to ignore newlines until "baseurl:"
- Currently a student studying Computer Science at The University
- of Texas at Austin. 
+Studying Computer Science at The University of Texas at Austin. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://danielvdao.github.io" # the base hostname & protocol for your site
 twitter_username: danyuldow
