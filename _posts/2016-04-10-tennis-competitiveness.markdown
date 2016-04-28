@@ -15,6 +15,6 @@ Tennis is kind of an on and off game for me. I was driven by passion and would s
 
 I'd say that it's also caused me a lot of trouble, reuslting in so much time on multiple things, only to find it dentrimental to my well-being. 
 
-I want to say I'm glad that I've always committed myself to some form of competition. it's a little bit overused, but video games and tennis lessons always come up in my life. Whether it be the problem-solving nature of a video game, or the mental focus of a tennis match, I've always found myself looking back at the teaching of my tennis coach, or my kill/death ratio (hello to my Call of Duty fans). 
+I want to say I'm glad that I've always committed myself to some form of competition. It's a little bit overused, but video games and tennis lessons always come up in my life. Whether it be the problem-solving nature of a video game, or the mental focus of a tennis match, I've always found myself looking back at the teaching of my tennis coach, or my kill/death ratio (hello to my Call of Duty fans). 
 
 
