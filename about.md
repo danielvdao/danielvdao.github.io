@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /about/
+title: About
 ---
 
-Hi, my name is Daniel. I'm studying Computer Science in hill country, also known as The University of Texas at Austin. I enjoy tennis, weightlifting, and excessive periods where I can Wikipedia interesting historical facts. Additionally, I'm obsessed with finding new music, and will spend atrocious amounts of time on SoundCloud. On days where I'm not doing any of those things listed, you'll find me occassionally reading books, although it's an old habit I've recently tried to get back into.
+Hi, my name is Daniel. I'm studying Computer Science in Hill Country, at The University of Texas at Austin. I enjoy tennis, weightlifting, and excessive periods where I can Wikipedia interesting historical facts. Additionally, I'm obsessed with finding new music, and will spend atrocious amounts of time on SoundCloud. On days where I'm not doing any of those things listed, you'll find me occassionally reading books, although it's an old habit I've recently tried to get back into.
 
 
 Regardless, you've managed to stumble upon my blog, which means a few things. Either: 
@@ -16,7 +16,3 @@ I'd like to think that everybody who ends up at this page is the third option, h
 
 [Quora]: <https://quora.com> 
 
-
-
-
- 

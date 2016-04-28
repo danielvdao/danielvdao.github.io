@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /books/
+title: Books
 ---
 
 Here is a collection of books I am currently reading. If you have any other suggestions, please feel free to email me.
