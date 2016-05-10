@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-View Resume [PDF](/static/DanielDaoResume.pdf).
+This is a minimal version of my resume. Click [here](/static/DanielDaoResume.pdf) to see a full one.
 
 ### Education
 **The University of Texas at Austin**, Bachelor of Science, Computer Science, 2016.     
