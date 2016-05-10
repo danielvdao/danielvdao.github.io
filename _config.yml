@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Daniel Vu <br> Dao
+title:            Daniel Vu Dao
 tagline:          'Random thoughts'
 description:      'Aspiring software developer/engineer/code monkey, tennis player, and weightlifter'
 baseurl:          /
