@@ -10,6 +10,10 @@ View Resume [PDF](/static/DanielDaoResume.pdf).
 **GPA**: 3.35
 
 ### Work Experience
+**Civitas Learning**, Software Engineer I                                                                
+Austin TX, Summer 2016
+
+
 **DirecTV**, Software Engineering Intern                                                                
 Los Angeles CA, Summer 2015
 
