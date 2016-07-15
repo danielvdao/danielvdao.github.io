@@ -27,8 +27,5 @@ Austin TX, Spring 2014 - Summer 2014
 **The University of Texas at Austin**, Undergraduate Teaching Assistant                                                               
 Austin TX, Spring 2016
 
-**DigitalATX**, Contributor                                                               
+**DigitalATX**, Technical Contributor                                                               
 Austin TX, Spring 2016
-
-
-
