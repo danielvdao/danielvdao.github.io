@@ -15,4 +15,6 @@ So it's definitely been a long semester. I've had racial slurs thrown at me, stu
 
 But overall... I'm so glad. I'm teaching still; I know there are days where I'm definitely wondering if this is really something that I like. But at night, when I sit down and think / write about what I did during the day, I know I tried my best to make a difference in someone's life. It's rare to be in a position where I'm able to help students indirectly and directly. It's definitely been a humbling experience from both ends. I've seen how frustrating the education industry is, as I've been able to experience a lot of the problems firsthand.
 
-My future goal is to be able to do more to further computer science for education. I want more students to understand the coding is not a scary thing, and that it's something we use in our every day lives / take for granted. However as for now, I'm happy. I'm happy that I'm trying my best, and I will push myself to do as much as I can.
+My future goal is to be able to do more to further computer science education. I want more students to understand that coding is not a scary thing, and that it's something we use in our every day lives / take for granted.
+
+ However as for now, I'm happy. I'm happy that I'm trying my best, and I will push myself to do as much as I can for them. I hope that I can achieve at least one student wanting to pursue computer science. Thanks for taking in another sappy post, teaching has definitely been an interesting experience, and I hope to finish this semester strong.
