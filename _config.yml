@@ -7,8 +7,6 @@ permalink:        pretty
 
 # Setup
 title:            Daniel Vu Dao
-tagline:          'skrrt'
-description:      'Software developer/engineer/code monkey/whatever, tennis player, and a duller version of Lewis and/or Clark'
 baseurl:          /
 
 paginate:         5
@@ -17,3 +15,4 @@ github: https://github.com/danielvdao
 linkedin: https://linkedin.com/in/danielvudao
 twitter: https://twitter.com/danyuldow
 
+plugins: [jekyll-paginate]
