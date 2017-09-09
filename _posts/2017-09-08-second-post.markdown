@@ -11,7 +11,7 @@ Anyways in terms of musings for the past few days, there's actually been a few i
 
 Frankly that made my whole week. On top of that, I've been dedicating myself to a more rigorous reading / writing schedule. I've enrolled in a few classes online that are going to be starting soon and want to take it upon myself to improve my understanding of the humanities.
 
-As of lately -- I've found myself questioning the state of the world, how it became to be, and how we can take a step forward. Unfortunately I'll admit that I'm a poor presenter, my oratory isn't necessarily the greatest, although that can be practiced too!
+As of lately -- I've found myself questioning the state of the world, how it became to be, and how we can take a step forward.
 
 So along with my reading of Hamilton, I've found it quite topical to read a book on capitalism. It's an interesting piece and has definitely changed my perspective on the labor, financial, and economical conundrums that our country is currently in.
 
