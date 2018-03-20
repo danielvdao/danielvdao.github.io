@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ "/" | relative_url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -23,9 +23,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      
+
       <a class="sidebar-nav-item" href="/">Blog</a>
-      <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a> 
+      <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a>
       <a class="sidebar-nav-item" href="{{ site.linkedin }}">LinkedIn</a>
       <a class="sidebar-nav-item" href="{{ site.twitter }}">Twitter</a>
     </nav>
