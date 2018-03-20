@@ -8,6 +8,7 @@ permalink:        pretty
 # Setup
 title:            Daniel Vu Dao
 description: ''
+url: http://danielvudao.me/
 baseurl:          /
 
 paginate:         5
