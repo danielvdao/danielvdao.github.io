@@ -28,10 +28,10 @@ Austin TX, Summer 2014 - Fall 2014
 Austin TX, Spring 2014 - Summer 2014
 
 ### Volunteering and Teaching Experience
-**San Francisco Suicide Prevention**, Volunteer
+**San Francisco Suicide Prevention**, Volunteer Crisis Counselor
 San Francisco CA, Fall 2017 - Current
 
-**Adobe Books and Arts Cooperative**, Cooperative Employee
+**Adobe Books and Arts Cooperative**, Cooperative Employee / Member of the Board of Directors
 San Francisco CA, Fall 2017 - Current
 
 **TEALS**, Teaching Assistant
