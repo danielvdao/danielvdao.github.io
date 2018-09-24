@@ -9,8 +9,11 @@ This is a minimal version of my resume. Click [here](http://danielvudao.me/stati
 **The University of Texas at Austin**, Bachelor of Science, Computer Science, 2016.
 
 ### Work Experience
-**Munchery**, Software Engineer
+**Clover Health**, Software Engineer
 San Francisco CA, Current
+
+**Munchery**, Software Engineer
+San Francisco CA, Summer 2017 - Spring 2018
 
 **Civitas Learning**, Software Engineer
 Austin TX, Summer 2016
