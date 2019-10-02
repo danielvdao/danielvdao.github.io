@@ -11,7 +11,7 @@ title: About
 
 Hi,
 
-My name is Daniel and during the day I work at Clover Health as a Software Engineer, focusing on data pipelines and backend API services. In my personal time I volunteer at San Francisco Suicide Prevention as a crisis counselor, Hospice by the Bay as a patient care volunteer, and a bookstore pop-up focused on POC and minority / under-represented authors. I believe in connecting intentionally with my community around me and making a local impact on those as much as I can and believe that volunteering is one of the best ways to do that.
+My name is Daniel and during the day I work at Clover Health as a Software Engineer, focusing on data pipelines and backend API services. In my personal time I volunteer at San Francisco Suicide Prevention as a crisis counselor, Hospice by the Bay as a patient care volunteer, and a bookstore pop-up focused on POC and minority / under-represented authors. I believe in connecting intentionally with my community around me and making a local impact on those as much as I can.
 
 As for other hobbies, I like to read (Goodreads link above) and run (Strava profile above). I am always trying to set my sights on reading more books each year, although not by a numerical measure. Similar to Proust, I believe that reading is an opportunity to live many lives through the gaze of the narrator. And by doing so, I have had the fortune of seeing our world (and many others!) through a different lens.
 
