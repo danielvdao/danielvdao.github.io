@@ -19,7 +19,7 @@ And lastly I love to run. The reason I love running is difficult to properly art
 
 As a baseline for a some prospective running friends, my current running PR's are:
 
-* 20:08 5k
+* 19:48 5k (On a hilly course and 4th overall!): https://www.strava.com/activities/2838377159/overview
 * 1:35:17 Half-marathon
 * 4:30:00 Marathon (This was by far the worst decision I've made, to go into a marathon without fitness. I'm hoping to work on this at some point later in life.)
 
